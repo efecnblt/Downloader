@@ -1,0 +1,5 @@
+Flask==3.1.0
+pytube==15.0.0
+yt-dlp==2025.01.26
+gunicorn==21.2.0
+gevent==23.9.1 
